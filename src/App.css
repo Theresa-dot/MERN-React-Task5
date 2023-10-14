@@ -1,0 +1,33 @@
+/* App.css */
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.age-calculator {
+  margin: auto;
+  width: 50%;
+  max-width: 400px;
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+input {
+  width: 100%;
+  margin: 10px 0;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  cursor: pointer;
+}
+
+p {
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: bold;
+}
